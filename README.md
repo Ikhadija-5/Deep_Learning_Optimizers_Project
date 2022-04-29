@@ -46,16 +46,17 @@ $ python3 main.py --optimizer_name all --num_epochs 1000
 
 # Results Presentation
 
-``` adam result```  </br>
-![caption](figures/Adam.png) 
+adam result      |  Result from All Optimizers
+:--------|--------
+![adam result](figures/Adam.png)|![Plot of all Optimizers](figures/All_plots.png) 
+
+<!-- ``` adam result```  </br>
+![adam result](figures/Adam.png) 
 
 ```Plot of all Optimizers```  </br>
-![caption](figures/All_plots.png) 
+![Plot of all Optimizers](figures/All_plots.png)  -->
 ---
-___
 
----
-___
 
 # Related Papers #
 
@@ -64,6 +65,7 @@ ___
 * <a href= 'https://arxiv.org/pdf/1212.5701.pdf'> Momentum</a>
 * <a href= 'https://arxiv.org/pdf/1212.5701.pdf'> RMSProp</a>
 * <a href= 'https://arxiv.org/pdf/1212.5701.pdf'> Adagrad</a>
+
 
 
 # Contributors #
