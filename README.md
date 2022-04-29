@@ -71,12 +71,12 @@ ___
 
 <div style="display:flex;align-items:center">
   <div>
-    <h5> <a href='.'> Mm. Khadija Iddrisu </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Ms. Khadija Iddrisu </a> </h5> <img src="figures/K.PNG" height= 7% width= 7%>
    
   <div>
         <h5> <a href='..'> Mr. Paul sanyang</a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
   <div>
-    <h5> <a href='.'> Mr. Albert Agisha N </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mr. Albert Agisha N </a> </h5> <img src="figures/Albert.jpeg" height= 7% width= 7%>
     
   <div>
     <h5> <a href='.'> Mr. Idriss Nguepi N  </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
