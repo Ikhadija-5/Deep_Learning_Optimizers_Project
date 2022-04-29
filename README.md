@@ -4,9 +4,9 @@ In this project, we test our understanding of the works of optimizers in deep le
 
 
 <!-- <br> -->
-Refer to this [link](https://www.kaggle.com/competitions/dogs-vs-cats/data) to get the data.
 
-# Run the project #
+
+# Running the project #
 Here description of the project.
 
 If you do not have venv package, please refer to this [link](https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/)
@@ -74,7 +74,7 @@ ___
     <h5> <a href='.'> Ms. Khadija Iddrisu </a> </h5> <img src="figures/K.PNG" height= 7% width= 7%>
    
   <div>
-        <h5> <a href='..'> Mr. Paul sanyang</a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
+        <h5> <a href='..'> Mr. Paul sanyang</a> </h5> <img src="figures/Paul.jpeg" height= 7% width= 7%>
   <div>
     <h5> <a href='.'> Mr. Albert Agisha N </a> </h5> <img src="figures/Albert.jpeg" height= 7% width= 7%>
     
