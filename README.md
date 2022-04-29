@@ -79,6 +79,6 @@ ___
     <h5> <a href='.'> Mr. Albert Agisha N </a> </h5> <img src="figures/Albert.jpeg" height= 7% width= 7%>
     
   <div>
-    <h5> <a href='.'> Mr. Idriss Nguepi N  </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mr. Idriss Nguepi N  </a> </h5> <img src="figures/Idriss_picture.JPG" height= 7% width= 7%>
     
 </div>
