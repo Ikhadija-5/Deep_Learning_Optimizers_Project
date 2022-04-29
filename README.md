@@ -32,16 +32,16 @@ $ pip install -r requirements.txt
 # Training the model with a specific optimizer #
 
 ```
-$ python3 main.py --optimizer --max_iter
+$ python3 main.py --optimizer_name --num_epochs
 ```
 ## Example of running models ##
 
 ```
-$ python3 main.py --optimizer adam --max_iter 1000
+$ python3 main.py --optimizer_name adam --num_epochs 1000
 ```
 
 ```
-$ python3 main.py --optimizer all --max_iter 1000
+$ python3 main.py --optimizer_name all --num_epochs 1000
 ```
 
 # Results Presentation
@@ -79,6 +79,6 @@ ___
     <h5> <a href='.'> Mr. Albert Agisha N </a> </h5> <img src="figures/Albert.jpeg" height= 7% width= 7%>
     
   <div>
-    <h5> <a href='.'> Mr. Idriss Nguepi N  </a> </h5> <img src="figures/cat.1.jpg" height= 7% width= 7%>
+    <h5> <a href='.'> Mr. Idriss Nguepi N  </a> </h5> <img src="figures/Idriss_picture.JPG" height= 7% width= 7%>
     
 </div>
